@@ -1,0 +1,168 @@
+{
+  "n_seeds": 30,
+  "converged_1e-6": 30,
+  "final_best_le_0.001": 30,
+  "best_value": {
+    "mean": 5.800096843403917e-07,
+    "median": 5.694372622322419e-07,
+    "worst": 9.914411696065883e-07
+  },
+  "cycles_used": {
+    "mean": 44.833333333333336,
+    "median": 45.0,
+    "min": 32,
+    "max": 52
+  },
+  "per_seed": [
+    {
+      "seed": 0,
+      "best_value": 4.7070540931670735e-07,
+      "cycles": 51
+    },
+    {
+      "seed": 1,
+      "best_value": 4.416815078123193e-07,
+      "cycles": 48
+    },
+    {
+      "seed": 2,
+      "best_value": 8.176148758032298e-07,
+      "cycles": 45
+    },
+    {
+      "seed": 3,
+      "best_value": 1.9049397836923276e-07,
+      "cycles": 45
+    },
+    {
+      "seed": 4,
+      "best_value": 7.787959117599996e-07,
+      "cycles": 51
+    },
+    {
+      "seed": 5,
+      "best_value": 7.769502419208152e-08,
+      "cycles": 44
+    },
+    {
+      "seed": 6,
+      "best_value": 8.629151797556744e-07,
+      "cycles": 46
+    },
+    {
+      "seed": 7,
+      "best_value": 7.548225018361165e-07,
+      "cycles": 38
+    },
+    {
+      "seed": 8,
+      "best_value": 8.374447593162415e-07,
+      "cycles": 43
+    },
+    {
+      "seed": 9,
+      "best_value": 5.2762818558704794e-08,
+      "cycles": 47
+    },
+    {
+      "seed": 10,
+      "best_value": 5.13789953249244e-07,
+      "cycles": 52
+    },
+    {
+      "seed": 11,
+      "best_value": 5.323336016438418e-07,
+      "cycles": 49
+    },
+    {
+      "seed": 12,
+      "best_value": 7.42274175014046e-07,
+      "cycles": 52
+    },
+    {
+      "seed": 13,
+      "best_value": 6.581991560672407e-07,
+      "cycles": 47
+    },
+    {
+      "seed": 14,
+      "best_value": 3.563209323154126e-07,
+      "cycles": 49
+    },
+    {
+      "seed": 15,
+      "best_value": 5.516054248921876e-07,
+      "cycles": 41
+    },
+    {
+      "seed": 16,
+      "best_value": 5.981240609465033e-07,
+      "cycles": 43
+    },
+    {
+      "seed": 17,
+      "best_value": 7.554349363836366e-07,
+      "cycles": 43
+    },
+    {
+      "seed": 18,
+      "best_value": 4.6482832916083794e-07,
+      "cycles": 37
+    },
+    {
+      "seed": 19,
+      "best_value": 5.384029049260164e-07,
+      "cycles": 35
+    },
+    {
+      "seed": 20,
+      "best_value": 8.612933943830114e-07,
+      "cycles": 32
+    },
+    {
+      "seed": 21,
+      "best_value": 5.872690995722962e-07,
+      "cycles": 48
+    },
+    {
+      "seed": 22,
+      "best_value": 8.543320082488037e-07,
+      "cycles": 45
+    },
+    {
+      "seed": 23,
+      "best_value": 3.1520012599983716e-07,
+      "cycles": 50
+    },
+    {
+      "seed": 24,
+      "best_value": 9.914411696065883e-07,
+      "cycles": 38
+    },
+    {
+      "seed": 25,
+      "best_value": 4.923970675640987e-07,
+      "cycles": 44
+    },
+    {
+      "seed": 26,
+      "best_value": 8.637946007361563e-07,
+      "cycles": 45
+    },
+    {
+      "seed": 27,
+      "best_value": 1.474844748550197e-07,
+      "cycles": 49
+    },
+    {
+      "seed": 28,
+      "best_value": 5.206762385689956e-07,
+      "cycles": 41
+    },
+    {
+      "seed": 29,
+      "best_value": 7.701569093576666e-07,
+      "cycles": 47
+    }
+  ]
+}

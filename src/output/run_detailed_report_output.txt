@@ -1,0 +1,14 @@
+Running ABC with full per-cycle logging enabled...
+Cycle   1 | best f = 4.319263 | x* = (-0.4108,  0.6874) | mean f = 8.5877
+Cycle  10 | best f = 0.011292 | x* = (-0.0003,  0.0038) | mean f = 3.6668
+Cycle  20 | best f = 0.000491 | x* = (-0.0000, -0.0002) | mean f = 1.4087
+Cycle  30 | best f = 0.000128 | x* = (-0.0000,  0.0000) | mean f = 0.7673
+Cycle  40 | best f = 0.000016 | x* = ( 0.0000, -0.0000) | mean f = 0.1615
+Cycle  50 | best f = 0.000001 | x* = ( 0.0000,  0.0000) | mean f = 0.0685
+Done: 52 cycles (converged), best value = 0.00000034
+Writing one CSV table per cycle to output/detailed/tables/ ...
+Rendering one plot per cycle to output/detailed/plots/ ...
+Building animated GIF (53 frames) -> /Users/shifathasan/Developer/Academic/Theory/Machine_Learning/Al_Mahmud_Sir/Assignment/ABC-Assignment/src/output/detailed/evolution.gif
+Writing consolidated Excel workbook -> /Users/shifathasan/Developer/Academic/Theory/Machine_Learning/Al_Mahmud_Sir/Assignment/ABC-Assignment/src/output/detailed/ABC_Detailed_Report.xlsx
+
+All detailed, per-cycle outputs are in: src/output/detailed/

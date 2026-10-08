@@ -1,0 +1,10 @@
+ABC multi-seed check (30 seeds, default settings, 100 cycles max)
+------------------------------------------------------------
+Converged to f <= 1e-6 (early stop): 30/30
+Final best f <= 0.001:            30/30
+Final best f   : mean 5.80e-07, median 5.69e-07, worst 9.91e-07
+Cycles used    : mean 44.8, median 45, min 32, max 52
+Best f after 20 cycles: mean 1.52e-03, worst 6.23e-03
+Best f after 25 cycles: mean 3.97e-04, worst 1.10e-03
+
+Saved: output/multi_seed_summary.json, output/multi_seed_convergence.png

@@ -1,0 +1,17 @@
+=================================== test session starts ===================================
+platform darwin -- Python 3.14.8, pytest-9.1.1, pluggy-1.6.0 -- /opt/homebrew/opt/python@3.14/bin/python3.14
+cachedir: .pytest_cache
+rootdir: /Users/shifathasan/Developer/Academic/Theory/Machine_Learning/Al_Mahmud_Sir/Assignment/ABC-Assignment/src
+collected 9 items                                                                                                                                    
+
+test_abc.py::test_ackley_global_minimum_is_zero_at_origin PASSED                   [ 11%]
+test_abc.py::test_ackley_vec_matches_scalar PASSED                                 [ 22%]
+test_abc.py::test_abc_best_value_is_non_increasing PASSED                          [ 33%]
+test_abc.py::test_abc_converges_close_to_zero PASSED                               [ 44%]
+test_abc.py::test_food_sources_stay_within_bounds PASSED                           [ 55%]
+test_abc.py::test_scout_replaces_exhausted_sources PASSED                          [ 66%]
+test_abc.py::test_reproducible_with_same_seed PASSED                               [ 77%]
+test_abc.py::test_swarm_split_follows_lecture_parameters PASSED                    [ 88%]
+test_abc.py::test_onlooker_probabilities_sum_to_one_and_favour_low_values PASSED   [100%]
+
+=================================== 9 passed in 0.58s ===================================

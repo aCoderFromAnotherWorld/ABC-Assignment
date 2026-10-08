@@ -1,0 +1,54 @@
+{
+  "abc_settings": {
+    "swarm_size": 100,
+    "employed_bees (50% of swarm)": 50,
+    "onlooker_bees (50% of swarm)": 50,
+    "scouts": 1,
+    "limit": 20,
+    "dimension": 2,
+    "cycles": 100,
+    "initialization": "x_ij = x_min,j + rand(0,1)*(x_max,j - x_min,j)",
+    "neighbour_search": "v_ij = x_ij + phi*(x_ij - x_kj), phi=rand(-1,1), k!=i; keep better of f(x_i), f(v_i)",
+    "onlooker_selection": "P(x_i) = fit_i / sum(fit), Roulette Wheel",
+    "bounds": [
+      -5.0,
+      5.0
+    ]
+  },
+  "abc_result": {
+    "best_position": [
+      5.048818445125765e-08,
+      -1.0846613995662375e-07
+    ],
+    "best_value": 3.3839612756381143e-07,
+    "cycles_run": 52,
+    "converged": true
+  },
+  "classical_comparison": {
+    "start": [
+      4.0,
+      -4.0
+    ],
+    "x_star": [
+      3.983078761573619,
+      -3.983104339878673
+    ],
+    "f_star": 10.998262141050068
+  },
+  "reduced_cycle_runs": {
+    "20": {
+      "best_value": 0.000491275860700302,
+      "best_position": [
+        -3.977448615493859e-05,
+        -0.00016878602268228062
+      ]
+    },
+    "25": {
+      "best_value": 0.00012836493720813635,
+      "best_position": [
+        -3.977448615493859e-05,
+        2.181574388885671e-05
+      ]
+    }
+  }
+}
